@@ -58,7 +58,7 @@ func TestFilemode(t *testing.T) {
 	mode, err := filemode(testFile)
 
 	assert.NoError(err)
-	assert.Equal("-rwxrw-r-x", mode.String())
+	assert.Equal("-rwxr-xr-x", mode.String())
 
 	mode, err = filemode("test/nofile.txt")
 	assert.Error(err)

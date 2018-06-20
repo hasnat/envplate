@@ -23,6 +23,22 @@
 		{
 			"ImportPath": "github.com/yawn/envmap",
 			"Rev": "45241142781edb43b57fefaf356a7526435ff719"
+		},
+		{
+			"ImportPath": "github.com/spf13/cobra",
+			"Rev": "1e58aa3361fd650121dceeedc399e7189c05674a"
+		},
+		{
+			"ImportPath": "github.com/yawn/doubledash",
+			"Rev": "fd8a81db93af4b05f63292cbe691f1c1332fb450"
+		},
+		{
+			"ImportPath": "github.com/inconshreveable/mousetrap",
+			"Rev": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75"
+		},
+		{
+			"ImportPath": "github.com/spf13/pflag",
+			"Rev": "3ebe029320b2676d667ae88da602a5f854788a8a"
 		}
 	]
 }
